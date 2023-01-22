@@ -1,0 +1,4 @@
+npm i boostrap jquery --save
+en angular.json añadir en styles y script
+crear proyecto en google cloud y buscar la api en librerias de traduccion
+en credenciales crear key
